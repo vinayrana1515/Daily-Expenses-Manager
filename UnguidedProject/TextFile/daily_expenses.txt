@@ -1,0 +1,4 @@
+Milk.210
+Fruits.300
+Snacks.150
+Fuel.200
